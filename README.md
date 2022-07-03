@@ -26,6 +26,9 @@ cd Antora/Grants
 - Only PRs from individuals / groups with a history of successfully running validator nodes will be accepted. This is to ensure the network is successfully decentralized.
 
 
+## Block Explorer
+https://chadscan.com/
+
 ## Minimum hardware requirements
 - 8GB RAM
 - 500GB of disk space
