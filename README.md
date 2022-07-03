@@ -10,7 +10,7 @@
 git clone https://github.com/<YOUR-GITHUB-USERNAME>/Antora
 ```
 
--Create a new Markdown file in the Grants Directory
+- Create a new Markdown file in the Grants Directory
 
 ```
 cd Antora/Grants
